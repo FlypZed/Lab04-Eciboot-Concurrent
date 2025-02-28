@@ -28,7 +28,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 1️⃣ Clonar el repositorio:
 
 ```sh
-git clone https://github.com/TuUsuario/ECIBoot.git
+git clone https://github.com/flypdh/ECIBoot.git
 ```
 
 2️⃣ Acceder a la carpeta del proyecto:
@@ -172,7 +172,7 @@ Para desplegar en una instancia EC2:
    ```
 4️⃣ Accede desde el navegador o con `curl`:
    ```sh
-   curl http://<EC2_PUBLIC_IP>:8080
+   curl http://http://ec2-54-205-100-128.compute-1.amazonaws.com:8080
    ```
 
 ![image](https://github.com/user-attachments/assets/45b77604-8e74-4708-8de3-73da96b31350)

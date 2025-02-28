@@ -175,6 +175,9 @@ Para desplegar en una instancia EC2:
    curl http://<EC2_PUBLIC_IP>:8080
    ```
 
+![image](https://github.com/user-attachments/assets/45b77604-8e74-4708-8de3-73da96b31350)
+
+
 ---
 
 ## 📌 Autor

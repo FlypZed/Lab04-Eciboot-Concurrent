@@ -166,6 +166,8 @@ Para desplegar en una instancia EC2:
    sudo yum install docker -y
    sudo systemctl start docker
    ```
+![image](https://github.com/user-attachments/assets/6943974a-b743-4747-a2c4-9ef7bafbbe66)
+
 3️⃣ Descarga y ejecuta la imagen:
    ```sh
    docker run -p 8080:8080 eciboot-server
@@ -174,8 +176,9 @@ Para desplegar en una instancia EC2:
    ```sh
    curl http://http://ec2-54-205-100-128.compute-1.amazonaws.com:8080
    ```
+![image](https://github.com/user-attachments/assets/476f3b58-1235-4b03-a00d-ec5c46dae6c1)
 
-![image](https://github.com/user-attachments/assets/45b77604-8e74-4708-8de3-73da96b31350)
+![image](https://github.com/user-attachments/assets/a9ac3330-193d-4a93-aaa5-21e0fad8c943)
 
 
 ---
